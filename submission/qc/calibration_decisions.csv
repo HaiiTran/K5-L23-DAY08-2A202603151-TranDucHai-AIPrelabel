@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_014,cau_hoi_mo,"Phân biệt xe đạp và xe có động cơ điện","Xe có động cơ điện xếp vào motorbike; xe chỉ chạy bằng bàn đạp xếp vào bicycle; nếu ảnh không đủ căn cứ thì đánh dấu can_review","Mục 2: bổ sung định nghĩa xe đạp điện; mục 4.3: không rõ động cơ thì can_review",v1.1
+CAL-02,"img_005|img_018|img_022|img_034",loi_may,"Nhãn three_wheeler xuất hiện trên tủ điện, bus hoặc truck theo ghi chú review","Chỉ gán three_wheeler khi đó là xe ba bánh; không suy lớp từ mui hoặc hàng hóa; vật không phải xe thì không gán; nếu bị che, đánh dấu can_review","Mục 2 và 4.3: phân biệt bằng loại xe và dấu hiệu bánh xe",v1.1
+CAL-03,"img_006|img_026",bay_lot,"Bỏ lọt bẫy loose ở cả hai ảnh","Thêm lượt kiểm tra bốn cạnh box sau khi quét toàn ảnh; siết box nếu còn ăn nền nhìn thấy được","Mục 4.1: bổ sung bước kiểm tra biên box",v1.1

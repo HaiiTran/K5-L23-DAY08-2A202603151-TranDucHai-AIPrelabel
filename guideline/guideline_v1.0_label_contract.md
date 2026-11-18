@@ -74,8 +74,8 @@
 
 ## 6. Câu hỏi CÒN MỞ (bạn phải chốt trong v1.1 sau khi nhìn lỗi của máy)
 
-1. **Xe đạp điện / xe máy điện** nhỏ: `bicycle` hay `motorbike`? (Guideline chưa nói.)
-2. **Khối xe máy đỗ dày đặc gần camera** (không phải ở xa): từng xe hay `ignore_region`? Ngưỡng cụ thể?
+1. **Xe đạp điện / xe máy điện** nhỏ: `motorbike`? (Guideline chưa nói.)
+2. **Khối xe máy đỗ dày đặc gần camera** (không phải ở xa): từng xe còn đủ điều kiện đánh dấu trong tầm 4 hàng xe gần nhất, từ các hàng sau thì đánh dấu `ignore_region`.
 3. **Hàng nhô ra**: xe đạp / ba gác chở tre, rổ nhô xa: box xe có gồm hàng không? Mask thì sao?
 4. **Người ngồi trong xe ba bánh có mui che** (chỉ thấy thấp thoáng): ngưỡng "còn thấy ≥ 20%" ở mục 4.1.2 có hợp lý không? Hai người đánh giá "20%" bằng mắt sẽ lệch nhau bao nhiêu?
 5. **Kính chắn gió / cửa sổ xe**: thuộc mask xe (nhìn xuyên qua thấy nội thất / người) hay không?
