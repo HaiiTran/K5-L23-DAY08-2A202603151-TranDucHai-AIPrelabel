@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: https://github.com/HaiiTran
 - Repo bài nộp (URL): K5-L23-DAY08-2A202603151-TranDucHai-AIPrelabelhttps://github.com/HaiiTran/K5-L23-DAY08-2A202603151-TranDucHai-AIPrelabel)
-- Commit chốt bài (hash): 
+- Commit chốt bài (hash): 0820fa7
 - Máy: Windows, không có GPU
 - CVAT (Docker): v2.81.0
 
